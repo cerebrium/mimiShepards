@@ -2,9 +2,15 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Testimonials from '../components/Testimonials'
 import Content, { HTMLContent } from '../components/Content'
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+export const AboutPageTemplate = ({ 
+  title, 
+  content, 
+  contentComponent,
+  testimonials
+ }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -17,6 +23,11 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                 {title}
               </h2>
               <PageContent className="content" content={content} />
+              <br />
+              <hr />
+              <br />
+              <br />
+              <Testimonials testimonials={testimonials} />
             </div>
           </div>
         </div>
@@ -40,6 +51,7 @@ const AboutPage = ({ data }) => {
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
+        testimonials={post.frontmatter.testimonials}
       />
     </Layout>
   )
@@ -47,6 +59,8 @@ const AboutPage = ({ data }) => {
 
 AboutPage.propTypes = {
   data: PropTypes.object.isRequired,
+  fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  testimonials: PropTypes.array,
 }
 
 export default AboutPage
@@ -57,6 +71,10 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         title
+        testimonials {
+          author
+          quote
+        }
       }
     }
   }
