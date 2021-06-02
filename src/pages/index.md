@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Mimi's Shephards
-image: /img/backgroundFour.jpg
+image: /img/backgroundNine.jpg
 heading: 
 subheading: Maple Valley based German Shephards
 mainpitch:

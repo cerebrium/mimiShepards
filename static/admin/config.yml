@@ -1,6 +1,7 @@
 backend:
   name: github
-  branch: cerebrium/mimiShepards
+  repo: cerebrium/mimiShepards
+  branch: main
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
