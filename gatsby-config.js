@@ -1,10 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: 'Maple Valley Shepards',
+    title: 'Mimis Shepards',
     description:
-      'Website built fro the viewing and distribution of German Shepard Puppies.',
+      'Mimi has a new litter of puppies and she would love for you to check them out here!',
   },
   plugins: [
+    'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
@@ -29,8 +31,6 @@ module.exports = {
         name: 'images',
       },
     },
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-transformer-remark',
       options: {

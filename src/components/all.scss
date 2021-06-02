@@ -238,3 +238,32 @@ $menu-label-color: $white-ter;
 #nameIndex {
   text-align: center;
 }
+ #thankYouP {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 40vh;
+   h2 {
+     font-size: 14px;
+   }
+ }
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+html {
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: $black;
+}
+
+body::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: $black ;
+  border-radius: .3rem;
+  background: $black;
+}

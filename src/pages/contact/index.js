@@ -31,8 +31,8 @@ const Index = () => {
     myContent = (
       <Layout>
       <section className="section">
-        <div className="container">
-          <h2>Thanks!</h2>
+        <div className="container" id="thankYouP">
+          <h2>Thank you, the email has been sent and we will get back to you shortly!</h2>
         </div>
       </section>
     </Layout>

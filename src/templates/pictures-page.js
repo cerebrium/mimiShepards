@@ -182,6 +182,7 @@ export const PicturePageQuery = graphql`
               }
             }
             text
+            name
           }
           heading
           description

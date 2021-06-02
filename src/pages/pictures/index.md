@@ -14,15 +14,23 @@ intro:
     - image: /img/backgroundThree.jpg
       text: >
         Details about picture Details about picture Details about picture
+      name: >
+        
     - image: /img/backgroundThree.jpg
       text: >
         Details about picture Details about picture Details about picture
+      name: >
+        
     - image: /img/backgroundThree.jpg
       text: >
         Details about picture Details about picture Details about picture
+      name: >
+        
     - image: /img/backgroundThree.jpg
       text: >
         Details about picture Details about picture Details about picture
+      name: >
+        
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
