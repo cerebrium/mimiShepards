@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: cerebrium/mimiShepards
+  name: git-gateway
   branch: main
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
