@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Mimi's Shephards
-image: /img/home-jumbotron.jpg
+image: /img/backgroundTwo.jpg
 heading: 
 subheading: Maple Valley based German Shephards
 mainpitch:
@@ -13,18 +13,18 @@ description: >-
   The Current litter is shown here!
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/backgroundTwo.jpg
       text: >
-        name 1
-    - image: /img/coffee-gear.png
+        This dog has a good temperment and would be best for famlies with children.
+    - image: /img/backgroundTwo.jpg
       text: >
-        name 2
-    - image: /img/tutorials.png
+        dog details dog details dog details dog details dog details dog details
+    - image: /img/backgroundTwo.jpg
       text: >
-        name 3
-    - image: /img/meeting-space.png
+        dog details dog details dog details dog details dog details dog details
+    - image: /img/backgroundTwo.jpg
       text: >
-        name 4
+        dog details dog details dog details dog details dog details dog details
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

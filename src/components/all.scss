@@ -8,7 +8,7 @@ $kaldi-red-invert: #fff;
 $primary: $kaldi-red;
 $primary-invert: $kaldi-red-invert;
 $body-color: #333;
-$black: #2b2523;
+$black: #201E1A;
 
 .navbar .navbar-menu {
   box-shadow:none !important;
@@ -162,3 +162,79 @@ $menu-label-color: $white-ter;
     margin: 0 0 1em;
 
   }
+
+  /// my style ////
+  // form
+  #formContainer {
+    width: 100%;
+
+    // input bars
+    .inputBars {
+      width: 25%;
+      border-radius: .2rem;
+      border: 1px solid $body-color;
+      padding: 3px;
+    }
+    .inputBars:focus {
+      background-color: rgb(241, 241, 241);
+      outline-width: 0;
+    }
+
+    // message box
+    .myTextArea {
+      width: 40%;
+      border-radius: .2rem;
+      border: 1px solid $body-color;
+      padding: 10px;
+    }
+    .myTextArea:focus {
+      background-color: rgb(241, 241, 241);
+      outline-width: 0;
+    }
+
+    // submit button
+    .buttonStyle {
+      margin-top: 10px;
+      color: $body-color !important;
+      cursor: pointer;
+      text-transform: uppercase;
+      text-decoration: none;
+      background: #ffffff;
+      padding: 15px 25px;
+      border: 2px solid $body-color !important;
+      border-radius: .2rem;
+      display: inline-block;
+      transition: all 0.4s ease 0s;
+    }
+    .buttonStyle:hover {
+      color: white !important;
+      background-color: $black;
+      // border-color: white !important;
+      transition: all 0.4s ease 0s;
+    }
+  }
+
+// submit button
+.buttonStyle {
+  margin-top: 10px;
+  color: $body-color !important;
+  cursor: pointer;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ffffff;
+  padding: 15px 25px;
+  border: 2px solid $body-color !important;
+  border-radius: .2rem;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+}
+.buttonStyle:hover {
+  color: white !important;
+  background-color: $black;
+  // border-color: white !important;
+  transition: all 0.4s ease 0s;
+}
+
+#nameIndex {
+  text-align: center;
+}

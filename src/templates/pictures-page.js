@@ -15,7 +15,6 @@ export const PicturePageTemplate = ({
   intro,
   main,
   testimonials,
-  fullImage,
   pricing,
 }) => (
   <div className="content">
@@ -30,10 +29,13 @@ export const PicturePageTemplate = ({
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
+          boxShadow:
+            '#201E1A 0.5rem 0px 0px, #201E1A -0.5rem 0px 0px',
+          backgroundColor: '#201E1A',
           color: 'white',
-          padding: '1rem',
+          lineHeight: '1',
+          padding: '.75em',
+          borderRadius: '.2rem',
         }}
       >
         {title}
@@ -120,7 +122,6 @@ PicturePageTemplate.propTypes = {
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
   testimonials: PropTypes.array,
-  fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   pricing: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
@@ -141,7 +142,6 @@ const PicturePage= ({ data }) => {
         intro={frontmatter.intro}
         main={frontmatter.main}
         testimonials={frontmatter.testimonials}
-        fullImage={frontmatter.full_image}
         pricing={frontmatter.pricing}
       />
     </Layout>
@@ -223,13 +223,6 @@ export const PicturePageQuery = graphql`
         testimonials {
           author
           quote
-        }
-        full_image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
         }
         pricing {
           heading
