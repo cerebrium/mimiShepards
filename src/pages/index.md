@@ -2,46 +2,50 @@
 templateKey: index-page
 title: Mimi's Shephards
 image: /img/backgroundNine.jpg
-heading: 
+heading: Currently Available
 subheading: Maple Valley based German Shephards
 mainpitch:
   title: Why Us?
   description: >
-    We take the time to care for our dogs from the youngest age to guaruntee that they are as healthy as can be. 
-    We don't breed more often than we should, or put undo stress on our mom dogs. We love each and every pup we see, and take care of them to ensure when they go to their new homes they will have the best possible chance for happiness.
-description: >-
-  Currently Available
+    We take the time to care for our dogs from the youngest age to guaruntee
+    that they are as healthy as can be.  We don't breed more often than we
+    should, or put undo stress on our mom dogs. We love each and every pup we
+    see, and take care of them to ensure when they go to their new homes they
+    will have the best possible chance for happiness.
+description: " "
 intro:
   blurbs:
     - image: /img/backgroundTwo.jpg
       text: >
-        This dog has a good temperment and would be best for famlies with children.
-      name: >
+        This dog has a good temperment and would be best for famlies with
+        children.
+      name: |
         Green Collar Boy
     - image: /img/backgroundTwo.jpg
       text: >
-        dog details dog details dog details dog details dog details dog details
-      name: >
+        dog details dog details dog details dog details dog details dog details.
+        Best
+      name: |
         Grey Collar Boy
     - image: /img/backgroundTwo.jpg
-      text: >
+      text: |
         dog details dog details dog details dog details dog details dog details
-      name: >
+      name: |
         Purple Collar Boy
     - image: /img/backgroundTwo.jpg
-      text: >
+      text: |
         dog details dog details dog details dog details dog details dog details
-      name: >
+      name: |
         Blue Collar Boy
     - image: /img/backgroundTwo.jpg
-      text: >
+      text: |
         dog details dog details dog details dog details dog details dog details
-      name: >
+      name: |
         Pink Collar Female
     - image: /img/backgroundTwo.jpg
-      text: >
+      text: |
         dog details dog details dog details dog details dog details dog details
-      name: >
+      name: |
         Red Collar Female
   heading: What we offer
   description: >
