@@ -17,12 +17,22 @@ intro:
       text: >
         This dog has a good temperment and would be best for famlies with children.
       name: >
-        Red Collar Male
+        Green Collar Boy
     - image: /img/backgroundTwo.jpg
       text: >
         dog details dog details dog details dog details dog details dog details
       name: >
-        Black Collar Male
+        Grey Collar Boy
+    - image: /img/backgroundTwo.jpg
+      text: >
+        dog details dog details dog details dog details dog details dog details
+      name: >
+        Purple Collar Boy
+    - image: /img/backgroundTwo.jpg
+      text: >
+        dog details dog details dog details dog details dog details dog details
+      name: >
+        Blue Collar Boy
     - image: /img/backgroundTwo.jpg
       text: >
         dog details dog details dog details dog details dog details dog details
@@ -32,7 +42,7 @@ intro:
       text: >
         dog details dog details dog details dog details dog details dog details
       name: >
-        White Collar Female
+        Red Collar Female
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
