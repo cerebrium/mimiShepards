@@ -15,13 +15,15 @@ mainpitch:
 description: " "
 intro:
   blurbs:
-    - image: /img/backgroundTwo.jpg
-      text: >
+    - image: /img/purple.jpg
+      text: >+
         This dog has a good temperment and would be best for famlies with
-        children.
+        children. It is a dominant puppy, so if you already have a dog it will
+        no be a problem. 
+
       name: |
         Purple Boy
-    - image: /img/backgroundTwo.jpg
+    - image: /img/green-boy-.jpg
       text: >
         dog details dog details dog details dog details dog details dog details.
         Best
@@ -48,11 +50,7 @@ intro:
       name: |
         Red Girl
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we're glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: "\n"
 main:
   heading: Great coffee with no compromises
   description: >
