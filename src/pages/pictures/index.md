@@ -24,7 +24,7 @@ intro:
         Details about picture Details about picture Details about picture
       name: ""
   heading: Remove
-  description: Remove
+  description: "        "
 main:
   heading: Great coffee with no compromises
   description: >
