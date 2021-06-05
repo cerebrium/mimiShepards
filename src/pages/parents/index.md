@@ -19,6 +19,9 @@ intro:
     - text: Majestic's Royal Mara Vom Hart
       image: /img/img_9883.jpg
       name: "  "
+    - image: /img/img_9883.jpg
+      text: "Mara loves the snow, specifically snow ball fights! "
+      name: "  "
   heading: "     "
   description: "        "
 testimonials:
