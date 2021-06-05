@@ -18,12 +18,12 @@ intro:
         OFA: Normal Elbows,
         DM: clear   
       name: "   "
-    - text: Majestic's Royal Mara Vom Hart
-      image: /img/img_9883.jpg
-      name: "  "
+    - text: "  "
+      image: /img/dam.jpg
+      name: "  Majestic's Royal Mara Vom Hart"
     - image: /img/img_9883.jpg
-      text: "Mara loves the snow, specifically snow ball fights! "
-      name: "  "
+      text: "Mara loves the snow, especially snow ball fights! "
+      name: "Maple Valley, Mara's home. "
   heading: "     "
   description: "        "
 testimonials:
