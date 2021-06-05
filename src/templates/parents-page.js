@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 
-export const PicturePageTemplate = ({
+export const ParentPageTemplate = ({
   image,
   title,
   intro,
@@ -47,20 +47,27 @@ export const PicturePageTemplate = ({
   </div>
 )
 
-PicturePageTemplate.propTypes = {
+ParentPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
+  main: PropTypes.shape({
+    heading: PropTypes.string,
+    description: PropTypes.string,
+    image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  }),
 }
 
-const PicturePage= ({ data }) => {
+const ParentPage= ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
     <Layout>
-      <PicturePageTemplate
+      <ParentPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
         intro={frontmatter.intro}
@@ -69,7 +76,7 @@ const PicturePage= ({ data }) => {
   )
 }
 
-PicturePage.propTypes = {
+ParentPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.object,
@@ -77,10 +84,10 @@ PicturePage.propTypes = {
   }),
 }
 
-export default PicturePage
+export default ParentPage
 
-export const PicturePageQuery = graphql`
-  query PicturePage($id: String!) {
+export const ParentPageQuery = graphql`
+  query ParentPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
@@ -91,6 +98,8 @@ export const PicturePageQuery = graphql`
             }
           }
         }
+        heading
+        description
         intro {
           blurbs {
             image {
