@@ -10,9 +10,8 @@ full_image: /img/rada-s-1st-vet-.heic
 intro:
   blurbs:
     - image: /img/majestic-s-royal-jager-von-highlands-2.jpg
-      text: |
-        Majestic's Royal Jager Von Highlands
-      name: "OFA: Good Hips // OFA: Normal Elbows // DM: clear   "
+      text: "OFA: Good Hips // OFA: Normal Elbows // DM: clear   "
+      name: Majestic's Royal Jager Von Highlands
     - image: /img/jager.jpg
       text: "    "
       name: "   "
