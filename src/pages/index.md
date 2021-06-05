@@ -29,22 +29,22 @@ intro:
         Best
       name: |
         Green Boy
-    - image: /img/backgroundTwo.jpg
+    - image: /img/grey.jpg
       text: |
         dog details dog details dog details dog details dog details dog details
       name: |
         Grey Boy
-    - image: /img/backgroundTwo.jpg
+    - image: /img/blue.jpg
       text: |
         dog details dog details dog details dog details dog details dog details
       name: |
         Blue Boy
-    - image: /img/backgroundTwo.jpg
+    - image: /img/pink.jpg
       text: |
         dog details dog details dog details dog details dog details dog details
       name: |
         Pink Girl
-    - image: /img/backgroundTwo.jpg
+    - image: /img/red.jpg
       text: |
         dog details dog details dog details dog details dog details dog details
       name: |
