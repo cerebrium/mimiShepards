@@ -24,29 +24,23 @@ intro:
       name: |
         Purple Boy
     - image: /img/green-boy-.jpg
-      text: >
-        dog details dog details dog details dog details dog details dog details.
-        Best
+      text: "  "
       name: |
         Green Boy
     - image: /img/grey.jpg
-      text: |
-        dog details dog details dog details dog details dog details dog details
+      text: "   "
       name: |
         Grey Boy
     - image: /img/blue.jpg
-      text: |
-        dog details dog details dog details dog details dog details dog details
+      text: "   "
       name: |
         Blue Boy
     - image: /img/pink.jpg
-      text: |
-        dog details dog details dog details dog details dog details dog details
+      text: "    "
       name: |
         Pink Girl
     - image: /img/red.jpg
-      text: |
-        dog details dog details dog details dog details dog details dog details
+      text: "   \ \n"
       name: |
         Red Girl
   heading: What we offer
