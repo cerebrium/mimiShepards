@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Mimi's Shephards
+title: Mimi's German Shephards
 image: /img/backgroundNine.jpg
 heading: Currently Available
 subheading: Maple Valley based German Shephards
