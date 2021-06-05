@@ -23,7 +23,7 @@ intro:
       name: "  Majestic's Royal Mara Vom Hart"
     - image: /img/img_9883.jpg
       text: "Mara loves the snow, especially snow ball fights! "
-      name: "Maple Valley, Mara's home. "
+      name: "   "
   heading: "     "
   description: "        "
 testimonials:
