@@ -1,16 +1,17 @@
 ---
 templateKey: pictures-page
 title: Parents of your future puppy
-image: /img/backgroundThree.jpg
+image: /img/majestic-s-royal-jager-von-highlands.jpg
 heading: Majestic's Royal Jager Von Highlands (Stud)
 path: /pictures
-description: "OFA: Good Hips // OFA: Normal Elbows // DM: clear "
+description: https://www.pedigreedatabase.com/german_shepherd_dog/dogedit.html?p_dogid=2888487
 intro:
   blurbs:
-    - image: /img/majestic-s-royal-jager-von-highlands.jpg
-      text: "\n"
+    - image: /img/majestic-s-royal-jager-von-highlands-2.jpg
+      text: |
+        OFA: Good Hips // OFA: Normal Elbows // DM: clear 
       name: ""
-    - image: /img/backgroundThree.jpg
+    - image: /img/jager.jpg
       text: |
         Details about picture Details about picture Details about picture
       name: ""
@@ -22,7 +23,7 @@ intro:
       text: |
         Details about picture Details about picture Details about picture
       name: ""
-  heading: Remov
+  heading: Remove
   description: Remove
 main:
   heading: Great coffee with no compromises
