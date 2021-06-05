@@ -23,7 +23,7 @@ intro:
       text: |
         Details about picture Details about picture Details about picture
       name: ""
-  heading: Remove
+  heading: "     "
   description: "        "
 main:
   heading: Dam
@@ -33,7 +33,7 @@ main:
     alt: "  "
     image: /img/dam.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: "   "
     image: /img/mara-with-toy-in-month-2020.jpg
   image3:
     alt: Coffee beans
