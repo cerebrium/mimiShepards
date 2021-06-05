@@ -11,8 +11,8 @@ intro:
   blurbs:
     - image: /img/majestic-s-royal-jager-von-highlands-2.jpg
       text: |
-        OFA: Good Hips // OFA: Normal Elbows // DM: clear 
-      name: "  "
+        Majestic's Royal Jager Von Highlands
+      name: "OFA: Good Hips // OFA: Normal Elbows // DM: clear   "
     - image: /img/jager.jpg
       text: "    "
       name: "   "
