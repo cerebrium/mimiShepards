@@ -1,7 +1,7 @@
 ---
 templateKey: pictures-page
 title: Parents of your future puppy
-image: /img/majestic-s-royal-jager-von-highlands.jpg
+image: /img/backgroundEight.jpg
 heading: Majestic's Royal Jager Von Highlands (Stud)
 path: /pictures
 description: https://www.pedigreedatabase.com/german_shepherd_dog/dogedit.html?p_dogid=2888487
@@ -12,14 +12,6 @@ intro:
         OFA: Good Hips // OFA: Normal Elbows // DM: clear 
       name: ""
     - image: /img/jager.jpg
-      text: |
-        Details about picture Details about picture Details about picture
-      name: ""
-    - image: /img/backgroundThree.jpg
-      text: |
-        Details about picture Details about picture Details about picture
-      name: ""
-    - image: /img/backgroundThree.jpg
       text: |
         Details about picture Details about picture Details about picture
       name: ""
@@ -36,14 +28,13 @@ main:
     alt: "   "
     image: /img/mara-with-toy-in-month-2020.jpg
   image3:
-    alt: Coffee beans
+    alt: "   "
     image: /img/img_9883.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: "   "
   - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+    quote: "    "
 full_image: /img/rada-s-1st-vet-.heic
 pricing:
   heading: Delete
