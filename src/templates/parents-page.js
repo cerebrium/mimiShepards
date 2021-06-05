@@ -44,6 +44,19 @@ export const ParentPageTemplate = ({
         </div>
       </div>
     </section>
+    <section className="section section--gradient">
+      <div className="container">
+        <div className="section">
+          <div className="columns">
+            <div className="column is-10 has-text-centered">
+              <Link className="buttonStyle" to="/pictures">
+                  See All Pictures
+              </Link>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 )
 
