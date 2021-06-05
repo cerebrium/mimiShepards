@@ -18,13 +18,7 @@ Our dogs have been registered and verified to be of the highest quality by the A
 
 We love our pups from the day they're born. We make sure that the mom has an enclosure that is both safe and warm and easily accessible to us and not to anything else. We love our mom dogs and when they aren't breeding they are hiking and swimming. This ensures that the puppies have a highest quality genes and have the best chance of surviving.
 
-### Contact Information
-
-##### Dimi Hart
-
-##### Renton WA 98058 
-
-##### Tel: 206-331-6415
+###  
 
 <!-- ### Direct sourcing
 Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
