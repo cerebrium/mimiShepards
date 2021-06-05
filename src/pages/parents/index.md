@@ -14,9 +14,11 @@ intro:
         OFA: Good Hips // OFA: Normal Elbows // DM: clear 
       name: "  "
     - image: /img/jager.jpg
-      text: |
-        Details about picture Details about picture Details about picture
-      name: Jager
+      text: "    "
+      name: "   "
+    - text: Majestic's Royal Mara Vom Hart
+      image: /img/img_9883.jpg
+      name: "  "
   heading: "     "
   description: "        "
 testimonials:
