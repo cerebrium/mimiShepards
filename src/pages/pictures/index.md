@@ -15,7 +15,7 @@ intro:
       text: "    "
       name: Mara's girls from her first litter (Majestic's Royal Rada Vom Hart on the
         left)
-    - image: /img/img_0122.jpg
+    - image: /img/backgroundEight.jpg
       text: "  "
       name: "The whole pack "
     - image: /img/img_9428.jpg
