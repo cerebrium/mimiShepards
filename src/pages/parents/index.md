@@ -1,22 +1,37 @@
 ---
-templateKey: pictures-page
-title: Parents of your future puppy
-image: /img/backgroundEight.jpg
 heading: Majestic's Royal Jager Von Highlands (Stud)
 path: /pictures
-description: https://www.pedigreedatabase.com/german_shepherd_dog/dogedit.html?p_dogid=2888487
+templateKey: pictures-page
+pricing:
+  heading: Delete
+  description: "     "
+  plans: []
+full_image: /img/rada-s-1st-vet-.heic
 intro:
   blurbs:
     - image: /img/majestic-s-royal-jager-von-highlands-2.jpg
-      text: |
-        OFA: Good Hips // OFA: Normal Elbows // DM: clear 
-      name: "Jager"
+      text: "   "
+      name: Majestic's Royal Jager Von Highlands
     - image: /img/jager.jpg
-      text: |
-        Details about picture Details about picture Details about picture
-      name: "Jager"
+      text: |-
+        OFA: Good Hips, 
+        OFA: Normal Elbows,
+        DM: clear   
+      name: "   "
+    - text: "  "
+      image: /img/dam.jpg
+      name: "  Majestic's Royal Mara Vom Hart"
+    - image: /img/img_9883.jpg
+      text: "Mara loves the snow, especially snow ball fights! "
+      name: "   "
   heading: "     "
   description: "        "
+testimonials:
+  - author: Elisabeth Kaurismäki
+    quote: "   "
+  - author: Philipp Trommler
+    quote: "    "
+title: Parents of your future puppy
 main:
   heading: Dam
   description: |
@@ -30,14 +45,6 @@ main:
   image3:
     alt: "   "
     image: /img/img_9883.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: "   "
-  - author: Philipp Trommler
-    quote: "    "
-full_image: /img/rada-s-1st-vet-.heic
-pricing:
-  heading: Delete
-  description: "     "
-  plans: []
+image: /img/backgroundEight.jpg
+description: https://www.pedigreedatabase.com/german_shepherd_dog/dogedit.html?p_dogid=2888487
 ---
