@@ -33,7 +33,7 @@ intro:
         great for relaxing in the summer sun or just being your best friend."
       name: |
         Orange Girl
-    - image: /img/red.jpg
+    - image: /img/whitegirljpeg.jpeg
       text: >-2
             
         She already thinks of herself as queen of the pack, this puppy will be great for weekend hikes and helping you finish off your dinner!
